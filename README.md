@@ -33,7 +33,4 @@ This project successfully replicates a **basic online learning platform** with *
 
 ---
 
-### 🔗 **GitHub Repository**  
-*(Upload your code to GitHub and insert the repository link here)*  
 
-📌 **#WebDevelopment #HTML #CSS #UdemyClone #OnlineLearning #FrontendDevelopment** 🚀
